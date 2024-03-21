@@ -1,5 +1,5 @@
 # Introduction
-* Here a PPO implementation is done to push an object to its goal location using model-free RL.
+* Here is a PPO implementation to push an object to its goal location using model-free RL.
 * I am still updating the README with more facts and figures, as I run more experiments on this.
 * Stay tuned for more exciting results and conclusions.
 
