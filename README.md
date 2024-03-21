@@ -5,3 +5,5 @@
 
 # Result
 * Here is a short video showing the result of pushing the block in presence of obstacle.
+
+[![Watch the video](https://drive.google.com/file/d/17RMgnSfLY-l-AGE6Dn5FCT3XN2LXCrjb/view?usp=drive_link)](https://drive.google.com/file/d/1yJnfZyi3Tnu4L2gI1VQCyh1NvjlR0ubk/view?usp=drive_link)
