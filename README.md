@@ -7,4 +7,4 @@
 * Here is a short video showing the result of pushing the block in presence of obstacle.
 
 
-[![Watch the video]([image](./ss_RL.png))](https://drive.google.com/file/d/1yJnfZyi3Tnu4L2gI1VQCyh1NvjlR0ubk/view?usp=drive_link)
+[![Watch the video](![image](./ss_RL.png))](https://drive.google.com/file/d/1yJnfZyi3Tnu4L2gI1VQCyh1NvjlR0ubk/view?usp=drive_link)
